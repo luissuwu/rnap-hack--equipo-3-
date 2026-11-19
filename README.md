@@ -34,7 +34,7 @@ python app/app.py
 ## Team (`rnap-hack--equipo-3-`)
 * **Barcenas Sánchez Alondra (Matrícula)** — Dataset management and `README.md` documentation
 * **Campos Rivera Luis Alberto (2252149)** — Fine-tuning pipeline, Hugging Face Hub upload, and Streamlit deployment
-* **Cavazos López Noah Demian (Matrícula)** — 100-text robustness validation and `PROGRESS.md`
+* **Cavazos López Noah Demian (2251426)** — 100-text robustness validation and `PROGRESS.md`
 * **Garcia Hernández César Angel (Matrícula)** — Hyperparameter analysis and Section 6 conclusions
 * **Morin Perales Emiliano (Matrícula)** — Error case inspection and Gradio backup verification
 * **Tamez García Ángela Regina (Matrícula)** — Live demo preparation and repository quality check
