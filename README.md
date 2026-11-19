@@ -29,3 +29,12 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 # Or using the Gradio backup interface:
 python app/app.py
+
+
+## Team (`rnap-hack--equipo-3-`)
+* **Barcenas Sánchez Alondra (2251431)** — Dataset management and `README.md` documentation
+* **Campos Rivera Luis Alberto (2252149)** — Fine-tuning pipeline, Hugging Face Hub upload, and Streamlit deployment
+* **Cavazos López Noah Demian (2251426)** — 100-text robustness validation and `PROGRESS.md`
+* **Garcia Hernández César Angel (2251075)** — Hyperparameter analysis and Section 6 conclusions
+* **Morin Perales Emiliano (2251525)** — Error case inspection and Gradio backup verification
+* **Tamez García Ángela Regina (2251246)** — Live demo preparation and repository quality check
