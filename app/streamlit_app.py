@@ -311,4 +311,8 @@ with col_izq:
     st.markdown("#### 1. Mensaje Entrante del Chat")
     seleccion = st.selectbox("Cargar escenario de prueba:", list(ejemplos.keys()))
     mensaje = st.text_area(
-        "Contenido
+        "Contenido del mensaje:",
+        value=ejemplos[seleccion],
+        height=175,
+        placeholder="Escribe o pega aquí el mensaje del cliente para analizar..."
+    )
