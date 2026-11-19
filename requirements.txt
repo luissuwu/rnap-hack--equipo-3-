@@ -1,5 +1,6 @@
 torch
 transformers
+streamlit
 gradio
 scikit-learn
 pandas
